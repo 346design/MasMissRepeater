@@ -1,0 +1,17 @@
+{
+  "name": "masmiss-repeater",
+  "version": "1.0.0",
+  "description": "Repeater between mastodon and Misskey",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "node index.js debug",
+    "start": "node index.js"
+  },
+  "author": "K Miyano",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0",
+    "ws": "^6.2.0"
+  }
+}

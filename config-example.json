@@ -1,0 +1,6 @@
+{
+  "HOST": "https://mastodon.tld",
+  "TOKEN": "0000000000000000000000000000000000000000000000000000000000000000",
+  "STREAM": "public:local",
+  "POST_TO": "https://twista.283.cloud/api/ap/show"
+}
